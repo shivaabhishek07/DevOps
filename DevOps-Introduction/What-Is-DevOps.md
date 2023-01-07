@@ -29,7 +29,7 @@ The main goal of DevOps is that it reduces the manual tasks, and fasten the proc
 
 Previously the organisations process wouls be like,
 
-![workflow]()
+![image](https://github.com/shivaabhishek07/DevOps/blob/0e64264866d52eb964462ac6126d1a80a88623a3/images/basic-workflow.png)
 
 Here what the organisation shouls do? The should deliver their product to the customer/end-user.To make that happen, their will be some internal workflow.
 
