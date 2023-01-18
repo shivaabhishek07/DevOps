@@ -28,7 +28,7 @@ There were some major steps that every company should go through, those were
 6. Deploying
     
 
-![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1674027873840/cd38ea0a-a139-4197-b205-edc10bdaa98f.png)
+![image](https://github.com/shivaabhishek07/DevOps/blob/main/images/sdlc.png)
 
 We will go through each one of the steps with an example, Let us consider there is an E-Commerce website named XYZ. That website previously sells books online.
 
